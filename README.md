@@ -29,7 +29,7 @@ Press Enter and wait.
 If everything worked you should end up back here:
 ![image](https://github.com/Becausnt/FIX-No-power-options-awailable-SEB/assets/142886938/d78cb6d7-13ce-4b09-95e2-fb69aad9ed2b)
 
-You can exit and the options might be back already, if not you should restart your PC.
+You can exit and the options might be back already, if not you should restart your PC. You can shut down you PC by either holding the power Button until the screen goes black or by entering `shutdown /s` into the console. (`shutdown /f` works too and is faster but might cause loss of unsaved data)
 
 
 ## How to see your username
