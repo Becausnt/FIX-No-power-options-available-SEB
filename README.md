@@ -41,4 +41,5 @@ Start your Console, you don't need admin for this.
 Enter the command
 
 `net user`
+
 This command lists all available users. You can ignore the users `DefaultAccount` and `WDAGUtilityAccount` as you probably aren using those. Find your account and enter the name into the reset tool of the SEB. If you don't know which one is yours, you can just try all of them.
