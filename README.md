@@ -26,6 +26,18 @@ If you dont know your current username you click [here](#How-to-see-your-usernam
 Press Enter and wait.
 ![Screenshot 2024-04-03 130330](https://github.com/Becausnt/FIX-No-power-options-awailable-SEB/assets/142886938/45099696-b44d-4e02-ab20-703c98d132cb)
 
+If everything worked you should end up back here:
+![image](https://github.com/Becausnt/FIX-No-power-options-awailable-SEB/assets/142886938/d78cb6d7-13ce-4b09-95e2-fb69aad9ed2b)
+
+You can exit and the options might be back already, if not you should restart your PC.
 
 
 ## How to see your username
+
+Start your Console, you don't need admin for this.
+![image](https://github.com/Becausnt/FIX-No-power-options-awailable-SEB/assets/142886938/3e5d3456-62dc-49ea-9c02-99ff40b88115)
+
+Enter the command
+
+`net user`
+This command lists all available users. You can ignore the users `DefaultAccount` and `WDAGUtilityAccount` as you probably aren using those. Find your account and enter the name into the reset tool of the SEB. If you don't know which one is yours, you can just try all of them.
