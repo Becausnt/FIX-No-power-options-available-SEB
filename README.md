@@ -35,6 +35,7 @@ You can exit and the options might be back already, if not you should restart yo
 ## How to see your username
 
 Start your Console, you don't need admin for this.
+
 ![image](https://github.com/Becausnt/FIX-No-power-options-awailable-SEB/assets/142886938/3e5d3456-62dc-49ea-9c02-99ff40b88115)
 
 Enter the command
