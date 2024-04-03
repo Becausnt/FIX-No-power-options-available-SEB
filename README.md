@@ -1,4 +1,4 @@
-# [FIX]: No power options awailable/Win+L shortcut disabled 
+# [FIX]: No power options available/Win+L shortcut disabled 
 Note, this will only work if your issue is related to SEB (Safe Exam Browser).
 This can occur if you once installed it/were required to install it.
 
