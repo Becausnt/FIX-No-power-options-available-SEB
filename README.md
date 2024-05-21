@@ -19,7 +19,7 @@ Start the Tool and allow admin access
 Use the arrow keys to select `Reset system configuration to default values` like this:
 ![image](https://github.com/Becausnt/FIX-No-power-options-awailable-SEB/assets/142886938/123bc8f8-2f6a-42d1-a011-1e601f80c2fa)
 
-Then press Enter and enter the name of your Account, its VERY IMPORTANT that you don't enter your name but the system name of your account. Otherwise it won't work.
+Then press Enter and enter the name of your Account, it is VERY IMPORTANT that you don't enter your name but the system name of your account. Otherwise it won't work.
 If you dont know your current username you click [here](#How-to-see-your-username).
 ![image](https://github.com/Becausnt/FIX-No-power-options-awailable-SEB/assets/142886938/73563773-a6e3-46e8-b664-2420c5751323)
 
